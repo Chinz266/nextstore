@@ -1,0 +1,31 @@
+[00:00:01.200] Server  LOG     ✓ Ready in 886ms
+[00:00:02.030] Server  ERROR   ⨯ Error: supabaseUrl is required.
+[00:00:02.363] Server  ERROR   ⨯ Error: supabaseUrl is required.
+[00:00:02.556] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:02.618] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:03.442] Browser ERROR   uncaughtError: Error: supabaseUrl is required.
+[00:00:03.445] Browser ERROR   uncaughtError: Error: supabaseUrl is required.
+[00:01:11.764] Server  ERROR   ⨯ Error: supabaseUrl is required.
+[00:01:12.057] Server  ERROR   ⨯ Error: supabaseUrl is required.
+[00:01:12.214] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:12.243] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:12.445] Browser ERROR   uncaughtError: Error: supabaseUrl is required.
+[00:01:12.446] Browser ERROR   uncaughtError: Error: supabaseUrl is required.
+[00:01:30.377] Server  LOG       Reload env: .env.local
+[00:01:30.822] Server  ERROR   ⨯ Error: supabaseUrl is required.
+[00:01:31.105] Server  ERROR   ⨯ Error: supabaseUrl is required.
+[00:01:31.256] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:31.278] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:31.404] Browser ERROR   uncaughtError: Error: supabaseUrl is required.
+[00:01:31.429] Browser ERROR   uncaughtError: Error: supabaseUrl is required.
+[00:01:49.483] Server  LOG       Reload env: .env.local
+[00:01:49.956] Server  LOG     ✓ Compiled in 328ms
+[00:01:49.958] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:49.958] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./NextStore-main/utils/supabase.ts changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:49.958] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:49.959] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:49.959] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./NextStore-main/utils/supabase.ts changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:49.959] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:50.197] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:50.225] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:10.796] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
