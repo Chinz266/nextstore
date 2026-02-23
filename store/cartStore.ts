@@ -2,7 +2,7 @@ import { create } from 'zustand'
 import { persist, createJSONStorage } from 'zustand/middleware'
 
 // 🛒 กำหนดโครงสร้างสินค้า
-interface CartItem {
+export interface CartItem {
     id: string
     name: string
     price: number

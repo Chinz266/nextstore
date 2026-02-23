@@ -2,7 +2,8 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useCartStore, CartItem } from '@/store/cartStore';
+import { useCartStore } from '@/store/cartStore';
+import { CartItem } from '@/store/cartStore';
 import { supabase } from '@/utils/supabase';
 import { useRouter } from 'next/navigation';
 import { CldUploadWidget } from 'next-cloudinary';
